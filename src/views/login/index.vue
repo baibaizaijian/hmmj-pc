@@ -1,10 +1,11 @@
 <template>
- <router-view></router-view>
+  <div>我是一级登录</div>
+
 </template>
 
 <script>
 export default {
-
+  name: 'LoginIndex'
 }
 </script>
 
